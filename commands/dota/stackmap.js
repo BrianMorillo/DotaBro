@@ -14,7 +14,7 @@ class Stackmap extends commando.Command{
 						color: 13899047,
 						title: "MAP FOR STACKING",
 						image: {
-						      url: "https://i.imgur.com/V2i8uwlJ.jpg"
+						      url: "https://www.google.com/"
 						    }
 						}
 			});
