@@ -1,4 +1,4 @@
 # DotaBro
 DotaBro Discord Bot
 Heroku
-Commands - StackMap, Gamehelp
+Personal Javascript, NodeJs written game oriented assistant
